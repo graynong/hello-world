@@ -1,4 +1,4 @@
 # hello-world
 just another repository
 hello,world,
-I am gray
+My name is Gray, and I am Chinese.I am 26 year old.
